@@ -1,0 +1,18 @@
+Полезные ссылки по питону
+
+1. Анализ данных на Python — построение модели фондового рынка со Stocker - https://neurohive.io/ru/tutorial/analiz-dannyh-na-python-postroenie-modeli-fondovogo-rynka-so-stocker/
+2. Прогнозирование фондового рынка на Python с помощью Stocker - https://neurohive.io/ru/tutorial/prognozirovanie-rynka-python-stocker/
+3. Получение котировок акций при помощи Python - https://habr.com/ru/post/487644/
+4. Общий финансовый анализ на Python (Часть 1) - https://habr.com/ru/post/492364/
+4.1. Общий финансовый анализ на Python (Часть 2) - https://habr.com/ru/post/494636/
+4.2. Общий финансовый анализ на Python (Часть 3) - https://habr.com/ru/post/496810/
+5. Linear Regression in Python using Statsmodels - https://datatofish.com/statsmodels-linear-regression/
+6. CAPM Analysis: Calculating stock Beta as a Regression with Python - https://medium.com/python-data/capm-analysis-calculating-stock-beta-as-a-regression-in-python-c82d189db536
+7. coronavirus api - https://documenter.getpostman.com/view/10808728/SzS8rjbc#b07f97ba-24f4-4ebe-ad71-97fa35f3b683
+8. uk-api coronavirus - https://github.com/publichealthengland/coronavirus-dashboard-api-python-sdk
+9. corona api 22 - https://rapidapi.com/collection/coronavirus-covid-19
+10. обработка графики отчётов - https://python-school.ru/wiki/pandas/ , https://python-school.ru/pandas-html/
+11. Статистика коронавируса - https://epidemic-stats.com/coronavirus/ , https://virusncov.com/
+11.1. https://github.com/r0ei/coroapi
+11.2. https://www.who.int/data/gho/info/athena-api-examples
+12. Анализ акций - https://habr.com/ru/post/495404/
